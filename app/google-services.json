@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42835275134",
+    "project_id": "bhumisewa-919b9",
+    "storage_bucket": "bhumisewa-919b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42835275134:android:3f29f1dd7e6c80323e172f",
+        "android_client_info": {
+          "package_name": "com.example.bhumisewa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX9gr9Me69XFIZ4HVLg-SrOv3HMdS9DMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
